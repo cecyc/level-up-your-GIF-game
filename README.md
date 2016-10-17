@@ -1,6 +1,6 @@
 ##Level up your GIF Game 👍
 
-![https://dl.dropboxusercontent.com/u/32684641/meme-hub/level-up.gif](level up!)
+![Level up!](https://dl.dropboxusercontent.com/u/32684641/meme-hub/level-up.gif)
 
 Presented at #CSSDevConf 2016.
 
