@@ -1,5 +1,7 @@
 ##Level up your GIF Game 👍
 
+![https://dl.dropboxusercontent.com/u/32684641/meme-hub/level-up.gif](level up!)
+
 Presented at #CSSDevConf 2016.
 
 ###Contents
@@ -18,11 +20,11 @@ Presented at #CSSDevConf 2016.
 
 ####What makes a good GIF?
 
->> A good GIF is a simple concept
+> A good GIF is a simple concept
 
 ####What makes a great GIF?
 
->> A great GIF provides an unexpected element
+> A great GIF provides an unexpected element
 
 ####GIFs in the workplace
 
