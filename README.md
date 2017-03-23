@@ -1,18 +1,18 @@
-[![Open Thanks](https://thawing-falls-79026.herokuapp.com/images/thanks-1.svg)](https://thawing-falls-79026.herokuapp.com/r/ildbsqpg)
+![](https://thawing-falls-79026.herokuapp.com/images/thanks-1.svg)](https://thawing-falls-79026.herokuapp.com/r/ildbsqpg)
 
-##Level up your GIF Game 👍
+## Level up your GIF Game 👍
 
-![Level up!](https://dl.dropboxusercontent.com/u/32684641/meme-hub/level-up.gif)
+![](https://dl.dropboxusercontent.com/u/32684641/meme-hub/level-up.gif)
 
 Presented at #CSSDevConf 2016.
 
-###Contents
+### Contents
 
-####How do you pronounce GIF?
+#### How do you pronounce GIF?
 
 [JIF is the Format, GIF is the culture](https://medium.com/message/jif-is-the-format-gif-is-the-culture-af8673796c44)
 
-####History of GIFs
+#### History of GIFs
 
 [Arrival of a Train](https://www.youtube.com/watch?v=1dgLEDdFddk), by the Lumière Brothers
 
@@ -20,15 +20,15 @@ Presented at #CSSDevConf 2016.
 
 [Sprinkler Sprinkled](https://www.youtube.com/watch?v=IooPPi1YzkM), by the Lumière Brothers
 
-####What makes a good GIF?
+#### What makes a good GIF?
 
 > A good GIF is a simple concept
 
-####What makes a great GIF?
+#### What makes a great GIF?
 
 > A great GIF provides an unexpected element
 
-####GIFs in the workplace
+#### GIFs in the workplace
 
 A few simple rules for safe workplace GIFs
 
@@ -36,7 +36,7 @@ A few simple rules for safe workplace GIFs
 2. Does it enhance the interaction?
 3. Do not use `/giphy` lightly
 
-####Common tools
+#### Common tools
 
 **GIPHY lesser known commands**
 
@@ -74,7 +74,7 @@ Returns several results to choose from before posting. The results are only visi
 /gifs [query]
 ```
 
-####Custom workflows
+#### Custom workflows
 
 **Dropbox + Alfred**
 
